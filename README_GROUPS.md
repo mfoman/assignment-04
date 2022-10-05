@@ -5,7 +5,7 @@
 * Group 3: mlth, nkar, oljh
 * Group 4: jwni, dadh, mbia
 * Group 5: otja, maxt, luel
-* Group 6: clly, frai, jric
+* Group 6: frai, asjo, nlje, frhc
 * Group 7: emkh, tuho, luha
 * Group 8: siar, gues, adjr
 * Group 9: tcla, adrka, bemi
@@ -16,10 +16,10 @@
 * Group 14: tbru, kbej, hast
 * Group 15: mreh, nicha, mgan
 * Group 16: brml, phimo, chbl
-* Group 17: frgm, frhc, avia
+* Group 17: frgm, avia
 * Group 18: fefa, vist, asly
 * Group 19: ehel, monha, jakst
-* Group 20: labp, nlje, bhag
+* Group 20: labp, bhag
 * Group 21: hecn, behv, aarv
 * Group 22: frepe, nihp, siol
 * Group 23: lufr, tuka, tokj
@@ -27,7 +27,7 @@
 * Group 25: amdh, mbjn, selb
 * Group 26: dlha, jawb, ssbo
 * Group 27: unla, bath, midf
-* Group 28: eikb, atro, asjo
+* Group 28: eikb, atro
 * Group 29: phla, mbln, mhvl
 * Group 30: crco, okre, raoo
 * Group 31: emno, rogy, skas
