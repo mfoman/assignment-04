@@ -16,4 +16,8 @@ public class User
         Email = email;
         Items = new HashSet<WorkItem>();
     }
+
+    public User() : this("", "null@null.com")
+    {
+    }
 }
