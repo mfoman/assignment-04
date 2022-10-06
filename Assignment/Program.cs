@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel;
 using Assignment.Infrastructure;
+using KanbanContextFactory = Assignment.KanbanContextFactory;
 
 var factory = new KanbanContextFactory();
 using var context = factory.CreateDbContext(args);
